@@ -1,5 +1,5 @@
 {
-    "name": "simplesamlphp/simplesamlphp-module-examplecomposer",
+    "name": "simplesamlphp/simplesamlphp-module-oauth2client",
     "description": "An example SimpleSAMLphp module installable through Composer.",
     "type": "simplesamlphp-module",
     "require": {
